@@ -4,3 +4,10 @@
 </div>
 
 <hr>
+
+# Reproduce
+
+- Run `npm run dev`.
+- Go to [http://localhost:5173](http://localhost:5173).
+- Click "Open dialog".
+- Try clicking the devtool button and notice that the dialog backdrop gets the click event instead.
